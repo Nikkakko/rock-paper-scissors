@@ -9,7 +9,7 @@ Users should be able to:
 - View the optimal layout for the game depending on their device's screen size
 - Play Rock, Paper, Scissors, Lizard, Spock against the computer
 
-![](./desktop-preview.jpg)
+![](public//desktop-preview.jpg)
 
 ### Built with
 
